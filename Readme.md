@@ -1,13 +1,18 @@
 # Software Developer Challenge
 
 ## Challenge 1: 
-Read through the rest of the assignment, decide which technologies to use and explain why you chose what you chose. As a reminder we at Paytm are dealing with millions of concurrent users, just sayin’ :)
+Read through the rest of the assignment, decide which technologies to use and explain why you chose what you chose.
 
 ## Challenge 2: 
 Create a deployable “Hello World” Server exposing simple REST “Hello World” API. It is going to be a base for your application for this assignment.
 
 ## Challenge 3:
-Pick one of the available online API’s such as Twitter (https://dev.twitter.com/overview/api), LCBO (https://lcboapi.com/) or Weather (https://openweathermap.org/api), create and implement a flow involving that API and user of your application. For example, your application might have following UI:
+Pick one of the available online API’s such as 
+* Twitter (https://dev.twitter.com/overview/api), 
+* LCBO (https://lcboapi.com/) 
+* Weather (https://openweathermap.org/api), 
+
+create and implement a flow involving that API and user of your application. For example, your application might have following UI:
 
 ![Sample UI](./sample-ui.png?raw=true "Sample UI")
 
@@ -23,11 +28,18 @@ Make your application persistent. Whatever functionality your application has, a
 ## Challenge 6:
 Test your application.
 
+Provide Unitest.
+
 ## Challenge 7:
+
 Let us know how we can use it. You could either provide us with a zipped file containing your solution or a link to your Github repository containing one.
 
 ## Bonus (optional):
+
 Add an “I’m feeling lucky button” that does a random search, but make sure that same result is not returned twice or that you don’t return a page that the user already viewed. Use the user stored history to do so. Since going through the history can potentially be costly, suggest and optionally implement optimization mechanism to avoid hitting the storage every time.
 
 
 
+## Reminder:
+
+Coding standards, best practices and repository rules will be consider, and get extra points.
